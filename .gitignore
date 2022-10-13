@@ -1,2 +1,2 @@
-jupyterenv
-.idea/
+test_env/
+.ipynb_checkpoints/
