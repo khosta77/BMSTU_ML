@@ -5,14 +5,14 @@
 ## Сборка
 
 ```cmd
-pip install jupyter
+pip install notebook
 pip install numpy
 pip install pandas
 pip install matplotlib
 ```
 
 ```cmd
-bash jup.sh
+jupyter notebook
 ```
 
 ## О проектах
